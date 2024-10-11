@@ -1,15 +1,15 @@
-challenge_title: "Unlock the Hidden Site"
+Challenge_Title: "Unlock the Hidden Site"
 
 Description: 
   In this **Capture the Flag (CTF)** challenge, students will apply key concepts from information security, specifically:
 
   - **Encryption**
-  - **Tokenization**
+  - **Encoding**
   - **Hashing**
 
-  to uncover a hidden link that leads to the solution. The challenge involves two compressed files: one containing an encrypted text file with the hidden link, and the other as a decoy. Students must identify the correct file.
+  The challenge is to uncover a hidden link that leads to the solution. Two compressed files are involved, one containing an encrypted text file with the hidden link and the other as a decoy. Students must identify the correct file.
 
-  Once the correct file is identified, students will need to unzip it, decrypt the text, and follow the hidden link to complete the challenge.
+  Once the correct file is identified, students must unzip it, decrypt the text, and follow the hidden link to complete the challenge.
 
 Tools:
   - Hash Tool
