@@ -1,6 +1,6 @@
 challenge_title: "Unlock the Hidden Site"
 
-description: |
+Description: 
   In this **Capture the Flag (CTF)** challenge, students will apply key concepts from information security, specifically:
 
   - **Encryption**
@@ -11,10 +11,10 @@ description: |
 
   Once the correct file is identified, students will need to unzip it, decrypt the text, and follow the hidden link to complete the challenge.
 
-tools:
+Tools:
   - Hash Tool
   - Unzipping software: WinRAR, 7-Zip
   - CyberChef
 
-learning_objectives: |
+Learning_objectives: |
   This challenge emphasizes the practical application of encryption and hashing, enhancing students' understanding of cryptographic techniques in a real-world context.
